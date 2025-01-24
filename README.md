@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Al Ayaan Ansari an @undergrad student in Jamia Millia Islamia
-- currently in btech cse program and in my 3rd sem
+- currently in btech cse program and in my 4th sem
 - 👀 I’m interested in DSA and programming
 - 🌱 I’m currently learning DSA and planning to on development in upcoming months
 - 💞️ I’m looking for fellow programmer and friends to chill and code with
