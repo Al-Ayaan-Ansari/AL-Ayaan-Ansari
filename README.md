@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Al Ayaan Ansari an @undergrad student in Jamia Millia Islamia
 - currently in btech cse program and in my 4th sem
-- 👀 I’m interested in DSA and programming
-- 🌱 I’m currently learning DSA and planning to on development in upcoming months
-- 💞️ I’m looking for fellow programmer and friends to chill and code with
+- 👀 I’m interested in DSA, programming and tech related fields
+- 🌱 I’m currently learning DSA, working on development and Bitcoins.
+- 💞️ I’m looking for fellow programmer and friends to code with and chat where our interest aligns
 - 📫 You can reach me at
     itsmeayaan730@gmail.com
 - ⚡ Fun fact: I am a GAMER
