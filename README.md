@@ -10,14 +10,15 @@
 
 ## 📌 Pinned Projects
 
-### 🪙 [Decentralized Stablecoin Engine](https://github.com/your-username/decentralized-stablecoin)
+### 🪙 [Decentralized Stablecoin Engine](https://github.com/Al-Ayaan-Ansari/De-fi_StableCoin)
 A Solidity-based protocol for minting and redeeming overcollateralized stablecoins. Inspired by MakerDAO, built using Foundry, Chainlink price feeds, and custom liquidation logic.
 
-### 🎰 [Crypto Raffle DApp](https://github.com/your-username/crypto-raffle)
+### 🎰 [Crypto Raffle DApp](https://github.com/Al-Ayaan-Ansari/CryptoRaffle)
 An Ethereum-based lottery application utilizing Chainlink VRF for provable randomness. Features automated draws and secure contract-based participation.
 
-### 💬 [PingUp (Real-Time Chat App)](https://github.com/your-username/pingup-chatapp)
+### 💬 [PingUp (Real-Time Chat App)](https://github.com/Al-Ayaan-Ansari/Pingup)
 A responsive chat application with theme support and real-time messaging using WebSockets (Socket.IO). Built with React, TailwindCSS, Zustand, Express, and MongoDB.
+live link (https://chat-app-qut6.onrender.com/)
 
 ---
 
