@@ -1,5 +1,11 @@
-# 💫 About Me:
-👋 About Me<br><br>Diving deep into Blockchain, Smart Contracts, and the Web3 ecosystem — I love turning complex protocols into practical, user-focused applications.<br><br>🔨 Projects I’ve built recently:<br><br>    🪙 Decentralized Stablecoin Engine – A Solidity-based system for minting collateral-backed stablecoins, inspired by MakerDAO-style architecture<br><br>    🎰 Crypto Raffle DApp – A decentralized Ethereum lottery leveraging Chainlink VRF for fair randomness and automated execution<br><br>    💬 PingUp – A real-time chat app with socket-powered messaging, built with React, Tailwind, Zustand, and Express<br><br>🛠️ I'm comfortable across the stack — from writing gas-optimized Solidity smart contracts and deploying with Foundry/Hardhat, to crafting smooth UIs and integrating with Ethereum nodes.<br><br>🎯 Hobbies: Exploring new tech, breaking down systems, and always tinkering with something cool.
+## 👋 About Me
+
+I'm a developer passionate about the **Web3 ecosystem** — building at the intersection of **smart contracts**, **decentralized protocols**, and **blockchain infrastructure**.  
+
+⚡ I work primarily with **Solidity**, **dApp development**, and **smart contract security**.  
+🌐 I love contributing to **open-source projects**, exploring **cross-chain interoperability**, and diving deep into **NFTs**, **DeFi**, and **Layer 2 solutions**.  
+
+🚀 Always learning, building, and pushing the boundaries of decentralized innovation.
 
 
 ## 🌐 Socials:
@@ -12,6 +18,9 @@
 
 ### 🪙 [Decentralized Stablecoin Engine](https://github.com/Al-Ayaan-Ansari/De-fi_StableCoin)
 A Solidity-based protocol for minting and redeeming overcollateralized stablecoins. Inspired by MakerDAO, built using Foundry, Chainlink price feeds, and custom liquidation logic.
+
+### 🪙 [Cross Chain Rebase Token](https://github.com/Al-Ayaan-Ansari/Cross-Chain-RebaseToken)
+A Solidity-based protocol for minting and redeeming Rebase Tokens and send them accros chain by CCIP. Inspired by Aave 3, built using Foundry, CCIP and custom logic of interest gain.
 
 ### 🎰 [Crypto Raffle DApp](https://github.com/Al-Ayaan-Ansari/CryptoRaffle)
 An Ethereum-based lottery application utilizing Chainlink VRF for provable randomness. Features automated draws and secure contract-based participation.
